@@ -1,14 +1,3 @@
-// program untuk mengecek apakah bilangan tersebut Palindrome atau tidak
-// output
-// contoh1
-// Enter a positive number: 12321
-// The reverse of the number is: 12321
-// The number is a palindrome.
-// contoh2
-// Enter a positive number: 12331
-// The reverse of the number is: 13321
-// The number is not a palindrome.
-
 #include <iostream>
 using namespace std;
 

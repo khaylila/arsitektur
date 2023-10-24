@@ -1,8 +1,3 @@
-// program menampilkan bilangan prima atau bukan
-// output
-// Enter a positive integer: 29
-// 29 is a prime number.
-
 #include <iostream>
 using namespace std;
 
